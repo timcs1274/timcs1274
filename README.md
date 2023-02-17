@@ -1,11 +1,6 @@
 <h1 align="center">Tim Sasse
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=timcs1274&label=Profile%20views&color=0e75b6&style=flat" alt="timcs1274" /> </p></h1>
-<h3 align="center">Check out my [Portfolio](https://timcs1274.github.io/Portfolio/) and my latest [project](https://github.com/timcs1274/KeyswithKeys) that I am working on!</h3>
-
-
-
-<h2>My <p></p></h2>
-<h2>I’m currently working on [KeyswithKeys](https://github.com/timcs1274/KeyswithKeys)</h2>
+<h3 align="center">Check out my <a href="https://timcs1274.github.io/Portfolio/">Portfolio</a> and my latest <a href="https://github.com/timcs1274/KeyswithKeys">project</a> that I am working on!</h3>
 
 
 
