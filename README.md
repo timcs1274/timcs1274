@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timcs1274&label=Profile%20views&color=0e75b6&style=flat" alt="timcs1274" /> </p>
 
-My [Portfolio](https://timcs1274.github.io/Portfolio/)
-I’m currently working on [KeyswithKeys](https://github.com/timcs1274/KeyswithKeys)
+- My [Portfolio](https://timcs1274.github.io/Portfolio/)
+- I’m currently working on [KeyswithKeys](https://github.com/timcs1274/KeyswithKeys)
 
 
 
