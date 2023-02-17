@@ -1,9 +1,10 @@
-<h1 align="center">Tim Sasse</h1>
+<h1 align="center">Tim Sasse
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=timcs1274&label=Profile%20views&color=0e75b6&style=flat" alt="timcs1274" /> </p></h1>
 <h3 align="center"></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=timcs1274&label=Profile%20views&color=0e75b6&style=flat" alt="timcs1274" /> </p>
 
-<h2>My [Portfolio](https://timcs1274.github.io/Portfolio/)</h2>
+
+<h2>My <p>[Portfolio](https://timcs1274.github.io/Portfolio/)</p></h2>
 <h2>I’m currently working on [KeyswithKeys](https://github.com/timcs1274/KeyswithKeys)</h2>
 
 
