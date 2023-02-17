@@ -1,7 +1,7 @@
 <h1 align="center">Tim Sasse</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"></h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=timcs1274&label=Profile%20views&color=0e75b6&style=flat" alt="timcs1274" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=timcs1274&label=Profile%20views&color=0e75b6&style=flat" alt="timcs1274" /> </p>
 
 - I’m currently working on [KeyswithKeys](https://github.com/timcs1274/KeyswithKeys)
 
