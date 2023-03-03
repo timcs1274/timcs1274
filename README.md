@@ -1,6 +1,6 @@
 <h1 align="center">Tim Sasse
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=timcs1274&label=Profile%20views&color=0e75b6&style=flat" alt="timcs1274" /> </p></h1>
-<h3 align="center">Check out my <a href="https://timcs1274.github.io/Portfolio/">Portfolio</a> and my latest <a href="https://github.com/timcs1274/KeyswithKeys">project</a> that I am working on!</h3>
+<h3 align="center">Check out my <a href="https://timcs1274.github.io/Portfolio/">Portfolio</a> and my latest <a href="https://github.com/timcs1274/Author-Page">project</a> that I am working on!</h3>
 
 
 
